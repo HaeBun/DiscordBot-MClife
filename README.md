@@ -23,6 +23,11 @@
 
 어떤식으로 UI를 만들지 부터 시작해서 몇번의 큰 수정을 하게됨.
 
+
+유저데이터는 약 260명 분의 데이터를 수집했음. ( 문제 시 DB 공유 중지 )
+
+https://o365seoil-my.sharepoint.com/:f:/g/personal/kimit1279_office_seoil_ac_kr/Er4CBl5z_IROoeuaCcNTzwABzgTAkeWxWU8vZRxHEP3NcQ?e=DhBoeV
+
 그 이외에는 파일 입출력으로 고생하다보니 DB의 소중함을 알게 됨
 
 당시 DB를 배우지 않아 파일 입출력으로 모든 것을 처리했음.
