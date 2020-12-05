@@ -28,6 +28,8 @@
 
 https://o365seoil-my.sharepoint.com/:f:/g/personal/kimit1279_office_seoil_ac_kr/Er4CBl5z_IROoeuaCcNTzwABzgTAkeWxWU8vZRxHEP3NcQ?e=DhBoeV
 
+개인 DM으로 봇 로그를 수집해 보았는데, 약 20만 5천개의 활동로그를 전송받음. ( 7월 21일 ~ End )
+
 그 이외에는 파일 입출력으로 고생하다보니 DB의 소중함을 알게 됨
 
 당시 DB를 배우지 않아 파일 입출력으로 모든 것을 처리했음.
