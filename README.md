@@ -39,3 +39,41 @@ https://o365seoil-my.sharepoint.com/:f:/g/personal/kimit1279_office_seoil_ac_kr/
 이걸 하면서 느낀점.
 
 게임은 혼자 만들지 말자. 너무 스케일이 크다.
+
++ 너무 많이 우려먹었는지 Discord로부터 무언가 메시지가 왔음.
+
+Hey 팀해분!
+
+It's your friendly neighborhood Bots & API Team checking in. If you're reading this message, it's because you created an application in our Developer Portal: https://discord.com/developers.
+
+We come bearing news, updates, and a one-time "Get Out of Rate Limits Free" card! Okay well, not the last one, but it caught your attention. We've got a few things to share with you, so let's get on with it.
+
+Developer Policy and Terms of Service Update
+
+Everyone's favorite time of the year, Terms of Service Update Season, is upon us. We're updating our Developer Terms of Service — which you can find here: https://discord.com/developers/docs/legal — to make it more human-readable.
+
+That's why we've also split it into two documents: our Developer Terms of Service: https://discord.com/developers/docs/legal and our Developer Policy: https://discord.com/developers/docs/policy. The Terms of Service covers all of the strictly legal bits of operating on our platform. Our Developer Policy covers our beliefs and guidelines on good use of our APIs that we use to guide our actions. Both are at the heart of what we believe being a good developer on Discord is about.
+
+We hope these changes make our terms and policy easier to understand.
+
+Discord API Domain Migration
+
+Last month, we excitedly announced our official move to discord.com. It was a long time in the making, and the work isn't done yet! For now, our API will continue to handle requests made to discordapp.com. On November 7, 2020 we will be dropping support for the discordapp.com domain in favor of discord.com. Please ensure that your libraries, bots, and applications are updated accordingly.
+
+Due to technical constraints, our CDN domain will not be migrated and will remain cdn.discordapp.com for the foreseeable future.
+
+Bot Verification Reminder
+
+Thanks to all of you that have gone through our bot verification process so far. The initial wave of applications was huge, and we recognize that we were slower than promised. Thank you all for your continued patience and support as we made it through all your applications. To date, nearly half of all eligible bots have been verified. Great work!
+
+For those of you that have not yet gone through our verification process, you can do so today by visiting your app in the Developer Portal. If your bot is in more than 75 guilds, you can begin the process. Reminder that the unrestricted period ends on October 6, 2020. On that date, we will be imposing the restrictions outlined in our previous blog post: https://blog.discord.com/the-future-of-bots-on-discord-4e6e050ab52e.
+
+You can still get verified after October 6, but go get a head start now and beat the rush!
+
+For those of you excited for the fancy new features shown in our blog post...keep being patient! We're putting some finishing touches on new API tools that will enable features like the ones you saw, and we can't wait to show them to you. Be prepared SLASH excited for the next coming couple months. If you haven't seen our blog post, go read it now: https://blog.discord.com/the-future-of-bots-on-discord-4e6e050ab52e.
+
+Happy coding!
+
+대충 11월까지 내가만든 봇 다른 서버에 많이 안뿌려두면 못쓰게 한다는 내용이다.
+
+새로운 계정 만들어다가 다시 하던가 앱 개발 배우던가 뭐 하던가 해야겠다.
